@@ -4,4 +4,4 @@
 - 파일 덤프 프로그램으로 텍스트 데이터와 이진 데이터의 차이를 배운다.
 
 ## 실행
-main 브랜치의 소스 파일에 따라 Makefile 수정 후 make로 빌드 후 make run으로 실행. 
+- main 브랜치의 소스 파일에 따라 Makefile 수정 후 make로 빌드 후 make run으로 실행한다. 
